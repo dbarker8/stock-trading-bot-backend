@@ -1,0 +1,17 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "module": "commonjs",
+    "noImplicitReturns": true,
+    "outDir": "lib",
+    "sourceMap": true,
+    "allowSyntheticDefaultImports": true,
+    "target": "es2017",
+    "allowJs": true,
+    "strict": false,
+    "noImplicitAny": false,
+  },
+  "include": [
+    "src"
+  ]
+}
